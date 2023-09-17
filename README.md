@@ -23,7 +23,7 @@ Probando la App:
 ![WhatsApp Image 2023-09-16 at 10 17 38 PM](https://github.com/JohnVeraXD/MyAppFaceAuthentication/assets/108051712/4743318c-ddb4-439f-9ce7-79e9bf191877)
 
 
----------Creación y entrenamiento de la red neuronal--------------
+-----------------Creación del modelo y entrenamiento de la red neuronal--------------
 ![image](https://github.com/JohnVeraXD/MyAppFaceAuthentication/assets/108051712/11c060aa-646b-46e2-8f0d-e5a5e9ca0d4d)
 
 
